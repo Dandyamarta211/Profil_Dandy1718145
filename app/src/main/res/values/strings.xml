@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Profil_Dandy_1718145</string>
+    <string name="photos">Photos</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="status">Informatics Engineer</string>
+    <string name="follow">Follow Me</string>
+    <string name="lang">Change Language</string>
 </resources>

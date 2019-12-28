@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profil_Dandy_1718145</string>
+    <string name="photos">Foto</string>
+    <string name="followers">Diikuti</string>
+    <string name="following">Mengikuti</string>
+    <string name="status">Teknik Informatika</string>
+    <string name="follow">Ikuti Aku</string>
+    <string name="lang">Ubah Bahasa</string>
+</resources>
